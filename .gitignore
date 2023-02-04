@@ -1,0 +1,3 @@
+.gitsecret/keys/random_seed
+!*.secret
+puppet/modules/netacuity/env/AWS_ACCESS_KEY_IDpuppet/modules/netacuity/env/AWS_SECRET_ACCESS_KEY
